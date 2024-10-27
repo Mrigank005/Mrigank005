@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C Language, Python and Shell Script
 - 📫 You can reach me at mriganksingh2000@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I come from the lovely city of Kanpur and did my schooling at Delhi Public School, Kalyanpur. Now I am a first-year student of Computer Science and Engineering at UPES Dehradun, with a zeal for the coming age technologies and the developing skills of coding. Wanting to understand all the field of Computer Science, I am looking forward to meeting people who think like me and beginning this wonderful adventure together.
+- ⚡ Fun fact: I am bit of an insomaniac.
 
 <!---
 Mrigank005/Mrigank005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
