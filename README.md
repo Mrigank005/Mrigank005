@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mrigank Singh [@Mrigank005]
 - 👀 I’m interested in Coding and future technologies
 - 🌱 I’m currently learning C Language and Python
-- 📫 You can reach me at mriganksingh2000@gmail.com
+- 📫 You can reach me at mriganksingh005@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am bit of an insomaniac.
 
