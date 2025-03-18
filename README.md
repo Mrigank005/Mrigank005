@@ -4,6 +4,6 @@
 <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
 <h6 align="center">Passionate about <a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/Developer.gif" width="30px"/> </a> AI-ML, Cloud Computing, and Full Stack Devlopment, I thrive at the intersection of these dynamic fields. With a background in Computer Science Engineering, I'm dedicated to leveraging AI-ML insights for solving complex problems. Whether it's building intelligent models for AI-ML, optimizing cloud infrastructures for scalability, or crafting seamless user experiences in full-stack development, I'm dedicated to continuous learning and innovation. Let's connect and collaborate on projects that push the boundaries of what's possible in these exciting domains.<a target="_blank"><img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/rocket%20bgless.gif" width="30px"/></h5>
 <img src="https://github.com/Supragya1/Supragya1/blob/main/Assets/border.gif" width="1100" height="10">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supragya1&label=Profile%20views&color=0e75b6&style=flat" alt="Mrigank005" /> </p>
+
 <img align ="right" alt = "coding" width ="250px" src ="https://github.com/Supragya1/Supragya1/blob/main/Assets/coding.gif">
 
