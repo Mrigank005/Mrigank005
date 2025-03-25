@@ -100,4 +100,4 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100" height="10">
 
-<img src="banner1.gif" width="100%" height="150px">
+<img src="banner1.jpg" width="100%" height="150px">
