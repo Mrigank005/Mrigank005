@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+Engineer;Full+Stack+Enthusiast;Computer+Science+Student&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
   
-<h3 align="center">Passionate about AI-ML, Cloud Computing, and Full Stack Development, I thrive at the intersection of these dynamic fields. With a background in Computer Science Engineering, I'm dedicated to leveraging AI-ML insights for solving complex problems. Whether it's building intelligent models for AI-ML, optimizing cloud infrastructures for scalability, or crafting seamless user experiences in full-stack development, I'm dedicated to continuous learning and innovation. Let's connect and collaborate on projects that push the boundaries of what's possible in these exciting domains.</h3>
+<h3 align="center">Passionate about AI-ML and Full Stack Development, I thrive at the intersection of these dynamic fields. With a background in Computer Science Engineering, I'm dedicated to leveraging AI-ML insights for solving complex problems. Whether it's building intelligent models for AI-ML or crafting seamless user experiences in full-stack development, I'm dedicated to continuous learning and innovation. Let's connect and collaborate on projects that push the boundaries of what's possible in these exciting domains.</h3>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100" height="10">
