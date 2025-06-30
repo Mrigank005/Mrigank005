@@ -3,7 +3,9 @@
 <img src="banner.gif" width="100%" height="500px">
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100" height="10">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=180&section=header&animation=fadeIn" alt="Banner Divider" style="width: 100%;" />
+</p>
 
 <!-- Header Section -->
 <h1 align="center"> Hi Everyone <a target="_blank" href="#"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" /></a>, I'm Mrigank Singh<a target="_blank"><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIzMDM5MDksIm5iZiI6MTc0MjMwMzYwOSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE4VDEzMTMyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkMDM0MmNjMTAxYzhhYmFmMWY2NjlhOGNlNWViNTIyYWY4ZDIxNTc5MTcxOWQxMTBmMjYyYTNlYzE1NGI2ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rf3CoIHWi7Xx7W12YHk-f3vahbT0yI4cstjcSsHPxkk" width="60px"/> </h1>
@@ -77,12 +79,26 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100" height="10">
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrigank005&theme=radical&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100" height="10">
+
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrigank005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-phi-opal.vercel.app?user=Mrigank005&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrigank005&theme=react&area=true&hide_border=true&radius=10&bg_color=0D1117&color=F75C7E&line=F75C7E&point=F75C7E" alt="Contribution Graph"/>
+</p>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100" height="10">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=150&section=footer&reversal=true" alt="Footer Mirrored" style="width: 100%;" />
+</p>
