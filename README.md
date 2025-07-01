@@ -10,10 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=180&width=100%&section=header&animation=fadeIn"style="width: 100%;" />
 </p>
 
-<h1 align="center">
-  Hi Everyone <a target="_blank"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"/></a>, I'm Mrigank Singh
-  <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="60px"/>
-</h1>
+<h1 align="center"> Hi Everyone <a target="_blank" href="#"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" /></a>, I'm Mrigank Singh </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+Engineer;Full+Stack+Enthusiast;Computer+Science+Student&font=Fira%20Code&center=true&width=440&height=45&color=FFD479&vCenter=true&size=22">
