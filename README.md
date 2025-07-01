@@ -111,14 +111,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrigank005&theme=algolia&margin-w=15&margin-h=15&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrigank005&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy"/>
 </p>
 
 ---
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://drive.google.com/file/d/1HrV9PI5mA8kXHC-U5_4hdS7J71Cy7Q7j/view" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Mrigank005&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="profile views"/>
 </div>
