@@ -16,20 +16,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+Engineer;Full+Stack+Enthusiast;Computer+Science+Student&font=Fira%20Code&center=true&width=440&height=45&color=FFD479&vCenter=true&size=22">
 </p>
 
-<p align="center"><em>“It’s not a bug – it’s an undocumented feature.”</em> – Anonymous</p>
-
 ---
 
 ## 👨‍💻 About Me
 <p align="center">
 <ul>
-  <li>🧠 Currently exploring <strong>Web Development</strong> & <strong>NLP</strong></li>
   <li>💡 Ask me about <strong>DSA</strong>, <strong>Python</strong> or <strong>AI/ML</strong></li>
   <li>🎵 I enjoy coding with some <strong>chill music</strong></li>
   <li>🏓 Ping me for a <strong>Table Tennis match!</strong></li>
   <li> 🌙 <strong>Night owl</strong> - my best code happens after <strong>10 PM</strong> </li>
   <li> ☕ Coffee addiction level: <strong>console.log("extreme")</strong> </li>
-  <li>🌐 Portfolio: <a href="https://mrigank-portfolio-website.vercel.app/">Check My Portfolio!</a></li>
+  <li>🧠 Personal Philosiphy: <strong><em>“It’s not a bug – it’s an undocumented feature.”</em></strong></li>
+  <li>🌐 Portfolio: <a href="https://mrigank-portfolio-website.vercel.app/">Check My Portfolio!</a></li>  
 </ul>
 </p>
 
