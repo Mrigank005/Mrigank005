@@ -10,6 +10,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=180&width=100%&section=header&animation=fadeIn"style="width: 100%;" />
 </p>
 
+<p>
+  <a href="https://drive.google.com/file/d/1HrV9PI5mA8kXHC-U5_4hdS7J71Cy7Q7j/view" target="_blank">
+    <img src="https://img.shields.io/badge/%20Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mrigank005&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" align="right"/>
+</p>
+
 <h1 align="center"> Hi Everyone <a target="_blank" href="#"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" /></a>, I'm Mrigank Singh </h1>
 
 <p align="center">
@@ -140,14 +147,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mrigank005&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy"/>
 </p>
 
----
-
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://drive.google.com/file/d/1HrV9PI5mA8kXHC-U5_4hdS7J71Cy7Q7j/view" target="_blank">
-    <img src="https://img.shields.io/badge/%20Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Mrigank005&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="profile views"/>
-</div>
 <!-- Footer Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=150&section=footer&width=100%&reversal=true"style="width: 100%;" />
