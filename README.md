@@ -28,7 +28,7 @@
   <li>🎵 I enjoy coding with lo-fi or indie music</li>
   <li>🏓 Ping me for a Table Tennis match!</li>
   <li>🌐 Portfolio: <a href="https://mrigank-portfolio-website.vercel.app/">mrigank-portfolio-website.vercel.app</a></li>
-  <li>📧 Contact me: <a href="mailto:mriganksingh005@gmail.com">mriganksingh005@gmail.com</a></li>
+  <li>📧 Contact me: <a href="mailto:mriganksingh005@gmail.com">mriganksingh005</a></li>
 </ul>
 </p>
 
