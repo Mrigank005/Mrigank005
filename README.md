@@ -25,11 +25,11 @@
 <ul>
   <li>🧠 Currently exploring <strong>Web Development</strong> & <strong>NLP</strong></li>
   <li>💡 Ask me about <strong>DSA</strong>, <strong>Python</strong> or <strong>AI/ML</strong></li>
-  <li>🎵 I enjoy coding with lo-fi or indie music</li>
-  <li>🏓 Ping me for a Table Tennis match!</li>
-  <li> 🌙 Night owl - my best code happens after 10 PM </li>
-  <li> ☕ Coffee addiction level: console.log("extreme") </li>
-  <li>🌐 Portfolio: <a href="https://mrigank-portfolio-website.vercel.app/">mrigank-portfolio-website.vercel.app</a></li>
+  <li>🎵 I enjoy coding with some <strong>chill music</strong></li>
+  <li>🏓 Ping me for a <strong>Table Tennis match!</strong></li>
+  <li> 🌙 <strong>Night owl</strong> - my best code happens after <strong>10 PM</strong> </li>
+  <li> ☕ Coffee addiction level: <strong>console.log("extreme")</strong> </li>
+  <li>🌐 Portfolio: <a href="https://mrigank-portfolio-website.vercel.app/">Check My Portfolio!</a></li>
 </ul>
 </p>
 
