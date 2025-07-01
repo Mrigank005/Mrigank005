@@ -114,6 +114,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mrigank005&theme=algolia&margin-w=15&margin-h=15&no-bg=true"/>
 </p>
 
+---
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://drive.google.com/file/d/1HrV9PI5mA8kXHC-U5_4hdS7J71Cy7Q7j/view" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mrigank005&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="profile views"/>
+</div>
 <!-- Footer Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=150&section=footer&width=100%&reversal=true"style="width: 100%;" />
