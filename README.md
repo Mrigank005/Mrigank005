@@ -76,6 +76,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 
 <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -86,6 +87,8 @@
 <!-- APIs & Frameworks -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepSeek_API-1E3A8A?style=flat&logo=deepmind&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Llama-FF6B35?style=flat&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
 
