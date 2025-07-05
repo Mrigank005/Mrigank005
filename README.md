@@ -169,12 +169,13 @@
   <tr>
     <td width="50%">
       <h3>🫧 Bubble Labyrinth</h3>
-      <p>A 3D puzzle-platformer built during Global Game Jam 2025. Navigate complex mazes using physics-based bubble mechanics.</p>
+      <p>A 3D first person puzzle-platformer built during Global Game Jam 2025.</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
       </p>
-      👥 Buit with <a href="https://github.com/devaanshkushwaha06">Devaansh Kushwaha</a>, <a href="https://github.com/Hardik-Bindal">Hardik Bindal</a> & <a href="https://github.com/">Bhuvendra Singh</a><br>
+      👥 Buit with <a href="https://github.com/devaanshkushwaha06">Devaansh Kushwaha</a>, <a href="https://github.com/Hardik-Bindal">Hardik Bindal</a> & <a href="https://github.com/">Bhuvendra Singh</a>
+      <br>
       🔗 <a href="https://globalgamejam.org/games/2025/bubble-labyrinth-9">Play Game</a>
     </td>
     <td width="50%">
