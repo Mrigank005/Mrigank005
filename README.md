@@ -80,31 +80,31 @@
 
 ### 🧑‍💻 Programming Languages :
 <p align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### 🌐 Web Development :
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/ShadCN-EF4444?style=for-the-badge&logo=storybook&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-EF4444?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ### 🤖 AI & APIs :
 <p align="center">
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepSeek_API-1E3A8A?style=for-the-badge&logo=deepmind&logoColor=white" />
-<img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek_API-1E3A8A?style=for-the-badge&logo=deepmind&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ### 🧠 Machine Learning Libraries & Tools :
@@ -120,20 +120,20 @@
 
 ### ☁️ Cloud & Platforms :
 <p align="center">
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_CloudFront-F7901E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CloudFront-F7901E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Others :
 <p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 </p>
 
@@ -166,7 +166,7 @@
         <img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
       </p>
-      👥 Buit with <a href="https://github.com/mayank-kumar-27">Mayank Kumar</a>
+      👥 Built with <a href="https://github.com/mayank-kumar-27">Mayank Kumar</a>
       <br>
       🔗 <a href="https://github.com/Mrigank005/Disaster_Response_Traning_Tool">GitHub</a> & <a href="https://disaster-response-traning-tool.vercel.app/">Live Website</a>
     </td>
@@ -178,11 +178,24 @@
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
       </p>
-      👥 Buit with <a href="https://github.com/devaanshkushwaha06">Devaansh Kushwaha</a>, <a href="https://github.com/Hardik-Bindal">Hardik Bindal</a> & <a href="https://github.com/">Bhuvendra Singh</a>
+      👥 Built with <a href="https://github.com/devaanshkushwaha06">Devaansh Kushwaha</a>, <a href="https://github.com/Hardik-Bindal">Hardik Bindal</a>, <a href="https://github.com/">Bhuvendra Singh</a>
       <br>
       🔗 <a href="https://globalgamejam.org/games/2025/bubble-labyrinth-9">Play Game</a>
     </td>
+    <td width="50%">
+      <h3>🖼️ <a href="https://github.com/Mrigank005/OCR">OCR Script</a></h3>
+      <p>A Python script that automates the extraction of text from images using Tesseract OCR. It processes all provided images and saves the extracted text as .txt files</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+        <img src="https://img.shields.io/badge/PyTesseract-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pillow-6E4C13?style=for-the-badge&logo=python&logoColor=white"/>
+      </p>
+      🔗 <a href="https://github.com/Mrigank005/OCR">GitHub</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>📊 Rubric Generator</h3>
       <p>A machine learning model designed to generate grading rubrics based on a given question and a sample answer. The model has been fine-tuned on custom data and implemented in a Jupyter Notebook.</p>
@@ -191,22 +204,15 @@
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
         <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
       </p>
       🔗 <a href="https://github.com/Mrigank005/Rubric_Generator">GitHub</a> & <a href="https://huggingface.co/Mrigank005/Rubric_Generator">Hugging Face</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3>🖼️ <a href="https://github.com/Mrigank005/OCR">OCR Script</a></h3>
-      <p>A Python script that automates the extraction of text from images using Tesseract OCR. It processes all provided images and saves the extracted text as .txt files</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-        <img src="https://img.shields.io/badge/Tesseract-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white"/>
-      </p>
-      🔗 <a href="https://github.com/Mrigank005/OCR">GitHub</a>
-    </td>
-    <td width="50%">
-      <h3>🚧 Coming Soon</h3>
+      <h3>⏳ Coming Soon</h3>
       <p>A new project is under development. Stay tuned for something exciting and impactful!</p>
       <p>
         <img src="https://img.shields.io/badge/Loading...-555555?style=for-the-badge&logo=github&logoColor=white"/>
