@@ -169,7 +169,7 @@
   <tr>
     <td width="50%">
       <h3>🫧 Bubble Labyrinth</h3>
-      <p>A 3D first person puzzle-platformer built during Global Game Jam 2025.</p>
+      <p>A first-person 3D puzzle-platformer built during Global Game Jam 2025.</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
