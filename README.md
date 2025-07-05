@@ -141,34 +141,58 @@
 
 ### 🌐 Live Websites
 
-#### [💼 Personal Portfolio Website](https://mrigank-portfolio-website.vercel.app/)
-> A personal portfolio website, built to showcase my projects, skills, experience, and achievements as a developer and creative technologist.  
-**🛠️ Tech Stack**: React, Tailwind CSS, Vercel   
+#### 💼 [Personal Portfolio Website](https://mrigank-portfolio-website.vercel.app/)
+> A personal dev portfolio to showcase my projects, experience, and achievements.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 🔗 [GitHub](https://github.com/Mrigank005/Portfolio)
 
-#### [🆘 Disaster Response Training Tool](https://disaster-response-traning-tool.vercel.app/)
-> An interactive web platform built at a Hackathon to train users in disaster preparedness through realistic simulations and decision-making scenarios.  
-**🛠️ Tech Stack**: HTML, CSS, JavaScript, Gemini API, Vercel  
-**👥 Built in Collaboration with**: [Mayank Kumar](https://github.com/mayank-kumar-27)  
+---
+
+#### 🆘 [Disaster Response Training Tool](https://disaster-response-traning-tool.vercel.app/)
+> Hackathon project that simulates disaster training using Gemini AI.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+🤝 Built with [Mayank Kumar](https://github.com/mayank-kumar-27)  
 🔗 [GitHub](https://github.com/Mrigank005/Disaster_Response_Traning_Tool)
 
 ---
 
 ### 🎮 Game Projects
 
-#### [🫧 Bubble Labyrinth](https://globalgamejam.org/games/2025/bubble-labyrinth-9)
-> A 3D puzzle-platformer built during Global Game Jam 2025. Navigate complex mazes using physics-based bubble mechanics.  
-**🛠️ Tech Stack**: Unity, C#  
-**👥 Built in Collaboration with**: [Devaansh Kushwaha](https://github.com/devaanshkushwaha06), [Hardik Bindal](https://github.com/Hardik-Bindal), and [Bhuvendra Singh](https://github.com/)  
+#### 🫧 [Bubble Labyrinth](https://globalgamejam.org/games/2025/bubble-labyrinth-9)
+> A 3D puzzle-platformer made for Global Game Jam 2025.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+🤝 Team: [Devaansh Kushwaha](https://github.com/devaanshkushwaha06), [Hardik Bindal](https://github.com/Hardik-Bindal), Bhuvendra Singh  
 🔗 [Game Link](https://globalgamejam.org/games/2025/bubble-labyrinth-9)
 
 ---
 
 ### 🤖 AI/ML Projects
 
-#### [📊 Rubric Generator](https://huggingface.co/Mrigank005/Rubric_Generator)
-> A fine-tuned ML model that generates grading rubrics based on a question and sample answer. Useful for educational tools and automated assessment.  
-**🛠️ Tech Stack**: Python, Jupyter, Hugging Face  
+#### 📊 [Rubric Generator](https://huggingface.co/Mrigank005/Rubric_Generator)
+> A fine-tuned model that creates grading rubrics from questions and answers.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>
+
 🔗 [GitHub](https://github.com/Mrigank005/Rubric_Generator)
 
 ---
@@ -176,8 +200,12 @@
 ### 🧠 Utility Scripts
 
 #### 🖼️ [Optical Character Recognition (OCR)](https://github.com/Mrigank005/OCR)
-> A Python script that extracts text from images using Tesseract OCR and saves them into `.txt` files. Supports batch processing and multiple languages.  
-**🛠️ Tech Stack**: Python, Tesseract  
+> A Python script to extract text from images using Tesseract OCR.
+
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<img src="https://img.shields.io/badge/Tesseract-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white"/>
+
 🔗 [GitHub](https://github.com/Mrigank005/OCR)
 
 ---
