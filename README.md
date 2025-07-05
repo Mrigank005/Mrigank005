@@ -137,6 +137,51 @@
 
 ---
 
+## 🚀 Projects
+
+### 🌐 Live Websites
+
+#### [💼 Personal Portfolio Website](https://mrigank-portfolio-website.vercel.app/)
+> A personal portfolio website, built to showcase my projects, skills, experience, and achievements as a developer and creative technologist.  
+**🛠️ Tech Stack**: React, Tailwind CSS, Vercel   
+🔗 [GitHub](https://github.com/Mrigank005/Portfolio)
+
+#### [🆘 Disaster Response Training Tool](https://disaster-response-traning-tool.vercel.app/)
+> An interactive web platform built at a Hackathon to train users in disaster preparedness through realistic simulations and decision-making scenarios.  
+**🛠️ Tech Stack**: HTML, CSS, JavaScript, Gemini API, Vercel  
+**👥 Built in Collaboration with**: [Mayank Kumar](https://github.com/mayank-kumar-27)  
+🔗 [GitHub](https://github.com/Mrigank005/Disaster_Response_Traning_Tool)
+
+---
+
+### 🎮 Game Projects
+
+#### [🫧 Bubble Labyrinth](https://globalgamejam.org/games/2025/bubble-labyrinth-9)
+> A 3D puzzle-platformer built during Global Game Jam 2025. Navigate complex mazes using physics-based bubble mechanics.  
+**🛠️ Tech Stack**: Unity, C#  
+**👥 Built in Collaboration with**: [Devaansh Kushwaha](https://github.com/devaanshkushwaha06), [Hardik Bindal](https://github.com/Hardik-Bindal), and [Bhuvendra Singh](https://github.com/)  
+🔗 [Game Link](https://globalgamejam.org/games/2025/bubble-labyrinth-9)
+
+---
+
+### 🤖 AI/ML Projects
+
+#### [📊 Rubric Generator](https://huggingface.co/Mrigank005/Rubric_Generator)
+> A fine-tuned ML model that generates grading rubrics based on a question and sample answer. Useful for educational tools and automated assessment.  
+**🛠️ Tech Stack**: Python, Jupyter, Hugging Face  
+🔗 [GitHub](https://github.com/Mrigank005/Rubric_Generator)
+
+---
+
+### 🧠 Utility Scripts
+
+#### 🖼️ [Optical Character Recognition (OCR)](https://github.com/Mrigank005/OCR)
+> A Python script that extracts text from images using Tesseract OCR and saves them into `.txt` files. Supports batch processing and multiple languages.  
+**🛠️ Tech Stack**: Python, Tesseract  
+🔗 [GitHub](https://github.com/Mrigank005/OCR)
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrigank005&show_icons=true&theme=ayu-mirage&hide_border=true&bg_color=1a1a1a"/>
