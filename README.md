@@ -185,7 +185,7 @@
       🔗 <a href="https://globalgamejam.org/games/2025/bubble-labyrinth-9">Play Game</a>
     </td>
     <td width="50%">
-      <h3>🖼️ <a href="https://github.com/Mrigank005/OCR">OCR Script</a></h3>
+      <h3>🖼️ OCR Script</h3>
       <p>A Python script that automates the extraction of text from images using Tesseract OCR. It processes all provided images and saves the extracted text as .txt files</p>
       <p>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
