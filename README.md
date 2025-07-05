@@ -200,7 +200,12 @@
       🔗 <a href="https://github.com/Mrigank005/OCR">GitHub</a>
     </td>
     <td width="50%">
-      <!-- future project here -->
+      <h3>🚧 Coming Soon</h3>
+      <p>A new project is under development. Stay tuned for something exciting and impactful!</p>
+      <p>
+        <img src="https://img.shields.io/badge/Loading...-555555?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Coming%20Soon-FF6B6B?style=for-the-badge&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
