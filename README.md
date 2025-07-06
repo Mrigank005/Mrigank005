@@ -243,7 +243,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrigank005&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrigank005&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true&row=2&column=4" alt="GitHub Trophy"/>
 </p>
 
 <!-- Footer Divider -->
