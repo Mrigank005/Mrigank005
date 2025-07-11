@@ -212,13 +212,18 @@
       🔗 <a href="https://github.com/Mrigank005/Rubric_Generator">GitHub</a> & <a href="https://huggingface.co/Mrigank005/Rubric_Generator">Hugging Face</a>
     </td>
     <td width="50%">
-      <h3>⏳ Coming Soon</h3>
-      <p>A new project is under development. Stay tuned for something exciting and impactful!</p>
+      <h3>🎓 NeoTutor</h3>
+      <p>An adaptive, feedback-driven AI tutor system powered by Meta’s LLaMA-3 and LangGraph. It generates personalized questions, gives intelligent feedback, adapts difficulty, and helps track learning progress — all in a Jupyter Notebook.</p>
       <p>
-        <img src="https://img.shields.io/badge/Loading...-555555?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Coming%20Soon-FF6B6B?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-6f42c1?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
       </p>
-    </td>
+      🔗 <a href="https://github.com/Mrigank005/NeoTutor">GitHub</a> ,<a href="https://huggingface.co/Mrigank005/NeoTutor">Hugging Face</a> & <a href="https://colab.research.google.com/drive/1X4QwSB48fddXATlJBYtab16l7TM72KZk?usp=sharing">Google Colab</a>
   </tr>
 </table>
 
