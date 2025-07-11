@@ -213,7 +213,7 @@
     </td>
     <td width="50%">
       <h3>🎓 NeoTutor</h3>
-      <p>An adaptive, feedback-driven AI tutor system powered by Meta’s LLaMA-3 and LangGraph. It generates personalized questions, gives intelligent feedback, adapts difficulty, and helps track learning progress — all in a Jupyter Notebook.</p>
+      <p>An adaptive, feedback-driven Agentic AI tutor system powered by Meta’s LLaMA-3.2 and LangGraph. It generates personalized questions, gives intelligent feedback, adapts difficulty, and helps track learning progress — all in a Jupyter Notebook.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
