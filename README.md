@@ -43,7 +43,7 @@
 ---
 
 ## 🎯 Current Goals
-- 🚀 Build a production-ready AI application
+- 🚀 Build a production-ready Full Stack AI application
 - 🔥 Master System Design patterns 
 - 🏆 Solve 500+ LeetCode problems
 - 📚 Contribute to open-source projects
