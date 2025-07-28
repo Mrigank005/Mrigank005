@@ -118,6 +118,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
+### 🗃️ Databases & Storage :
+<p align="center">
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F60?style=for-the-badge&logo=qdrant&logoColor=white" />
+</p>
+
+
 ### ☁️ Cloud & Platforms :
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
