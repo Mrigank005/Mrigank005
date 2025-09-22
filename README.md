@@ -22,7 +22,7 @@
 <h1 align="center"> Hi Everyone <a target="_blank" href="#"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" /></a>, I'm Mrigank Singh </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+Engineer;Full+Stack+Enthusiast;Computer+Science+Student&font=Fira%20Code&center=true&width=440&height=45&color=FFD479&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI-ML+Engineer;Full+Stack+Developer;RAG+Systems+Expert;Computer+Science+Student&font=Fira%20Code&center=true&width=440&height=45&color=FFD479&vCenter=true&size=22">
 </p>
 
 ---
@@ -30,12 +30,13 @@
 ## 👨‍💻 About Me
 <p align="center">
 <ul>
-  <li>💡 Ask me about <strong>DSA</strong>, <strong>Python</strong> or <strong>AI/ML</strong></li>
+  <li>🤖 Specializing in <strong>AI/ML</strong> while exploring <strong>FullStack Development and Cloud Engineering</strong></li>
+  <li>💡 Ask me about <strong>DSA</strong>, <strong>Python</strong>, <strong>AI/ML</strong>, or <strong>Full Stack Development</strong></li>
   <li>🎵 I enjoy coding with some <strong>chill music</strong></li>
   <li>🏓 Ping me for a <strong>Table Tennis match!</strong></li>
   <li> 🌙 <strong>Night owl</strong> - my best code happens after <strong>10 PM</strong> </li>
   <li> ☕ Coffee addiction level: <strong>console.log("extreme")</strong> </li>
-  <li>🧠 Personal Philosiphy: <strong><em>“It’s not a bug – it’s an undocumented feature.”</em></strong></li>
+  <li>🧠 Personal Philosophy: <strong><em>"It's not a bug – it's an undocumented feature."</em></strong></li>
   <li>🌐 Portfolio: <a href="https://mrigank-portfolio-website.vercel.app/">Check My Portfolio!</a></li>  
 </ul>
 </p>
@@ -43,10 +44,10 @@
 ---
 
 ## 🎯 Current Goals
-- 🚀 Build a production-ready Full Stack AI application
-- 🔥 Master System Design patterns 
+- 🚀 Build production-ready AI applications with RAG systems
+- 🔥 Master Advanced System Design patterns 
 - 🏆 Solve 500+ LeetCode problems
-- 📚 Contribute to open-source projects
+- 📚 Contribute to open-source AI/ML projects
 
 ---
 
@@ -55,7 +56,7 @@
   <a href="mailto:mriganksingh005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mrigank-singh-1899bb31b/" target="_blank">
+  <a href="https://www.linkedin.com/in/mrigank005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_._mrigank/" target="_blank">
@@ -81,6 +82,7 @@
 ### 🧑‍💻 Programming Languages :
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -96,42 +98,59 @@
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN-EF4444?style=for-the-badge&logo=storybook&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 🤖 AI & APIs :
+### 📱 Mobile Development :
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+### 🤖 AI & Machine Learning :
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek_API-1E3A8A?style=for-the-badge&logo=deepmind&logoColor=white" />
   <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
-### 🧠 Machine Learning Libraries & Tools :
+### 📊 Data Science & Analytics :
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### 🗃️ Databases & Storage :
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-FF4F60?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
-### ☁️ Cloud & Platforms :
+### ☁️ Cloud & DevOps :
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_CloudFront-F7901E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Others :
@@ -146,94 +165,181 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>💼 Portfolio Website</h3>
-      <p>My personal portfolio website, built to showcase my projects, skills, experience, and achievements as a developer and creative technologist.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ShadCN-EF4444?style=for-the-badge&logo=storybook&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </p>
-      🔗 <a href="https://github.com/Mrigank005/Portfolio">GitHub</a> & <a href="https://mrigank-portfolio-website.vercel.app">Live Website</a>
-    </td>
-    <td width="50%">
-      <h3>🆘 Disaster Response Training Tool</h3>
-      <p>An interactive web platform built at a Hackathon to train users in disaster preparedness through realistic simulations and decision-making scenarios.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </p>
-      👥 Built with <a href="https://github.com/mayank-kumar-27">Mayank Kumar</a>
-      <br>
-      🔗 <a href="https://github.com/Mrigank005/Disaster_Response_Traning_Tool">GitHub</a> & <a href="https://disaster-response-traning-tool.vercel.app/">Live Website</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🫧 Bubble Labyrinth</h3>
-      <p>A first-person 3D puzzle-platformer built during Global Game Jam 2025.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-      </p>
-      👥 Built with <a href="https://github.com/devaanshkushwaha06">Devaansh Kushwaha</a>, <a href="https://github.com/Hardik-Bindal">Hardik Bindal</a>, <a href="https://github.com/">Bhuvendra Singh</a>
-      <br>
-      🔗 <a href="https://globalgamejam.org/games/2025/bubble-labyrinth-9">Play Game</a>
-    </td>
-    <td width="50%">
-      <h3>🖼️ OCR Script</h3>
-      <p>A Python script that automates the extraction of text from images using Tesseract OCR. It processes all provided images and saves the extracted text as .txt files</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-        <img src="https://img.shields.io/badge/PyTesseract-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pillow-6E4C13?style=for-the-badge&logo=python&logoColor=white"/>
-      </p>
-      🔗 <a href="https://github.com/Mrigank005/OCR">GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Rubric Generator</h3>
-      <p>A machine learning model designed to generate grading rubrics based on a given question and a sample answer. The model has been fine-tuned on custom data and implemented in a Jupyter Notebook.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-      </p>
-      🔗 <a href="https://github.com/Mrigank005/Rubric_Generator">GitHub</a> & <a href="https://huggingface.co/Mrigank005/Rubric_Generator">Hugging Face</a>
-    </td>
-    <td width="50%">
-      <h3>🎓 NeoTutor</h3>
-      <p>An adaptive, feedback-driven Agentic AI tutor system powered by Meta’s LLaMA-3.2 and LangGraph. It generates personalized questions, gives intelligent feedback, adapts difficulty, and helps track learning progress — all in a Jupyter Notebook.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangGraph-6f42c1?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-      </p>
-      🔗 <a href="https://github.com/Mrigank005/NeoTutor">GitHub</a> ,<a href="https://huggingface.co/Mrigank005/NeoTutor">Hugging Face</a> & <a href="https://colab.research.google.com/drive/1X4QwSB48fddXATlJBYtab16l7TM72KZk?usp=sharing">Google Colab</a>
-  </tr>
-</table>
+### 🤖 AI/ML & Data Science
 
+<details>
+<summary><b>🧬 eDNA-Analyzer - AI-First Biodiversity Analysis Platform</b></summary>
+
+**Smart India Hackathon 2025 | Selected Project by Ministry of Earth Sciences**
+
+Built an AI-driven eDNA analysis pipeline for deep-sea biodiversity assessment, achieving 100× faster processing compared to traditional BLAST/DADA2 methods. Delivered a full-stack web application with real-time analysis dashboard, taxonomic classification trees, and biodiversity metrics visualization.
+
+**Technologies:** FastAPI • PyTorch • React • PostgreSQL • AI/ML Pipeline
+
+**Team:** Binary Beasts (Smart India Hackathon 2025)
+
+🔗 [Website](https://edna-analyzer.vercel.app/)
+</details>
+
+<details>
+<summary><b>🔍 F&B Process Anomaly Detection System</b></summary>
+
+Built an anomaly detection system for Food & Beverage batch production, analyzing 1500+ batches across 11 parameters. Implemented four specialized models with consensus voting, reducing false positives by 6-15% vs. single models.
+
+**Technologies:** Python • Scikit-learn • TensorFlow • SHAP • Plotly • Machine Learning
+
+**Key Achievements:** F1-score of 0.87 with 92% model agreement
+
+🔗 [GitHub](https://github.com/Mrigank005/F-B-Process-Anomaly-Detection-System)
+</details>
+
+<details>
+<summary><b>🎓 NeoTutor - Adaptive AI Tutor System</b></summary>
+
+Developed an adaptive, feedback-based AI tutor system using Meta's LLaMA-3.2-3B-Instruct with LangGraph multi-agent workflow for intelligent question generation, answer evaluation, and adaptive difficulty progression.
+
+**Technologies:** Meta LLaMA 3.2 • LangGraph • PyTorch • Transformers • 4-bit Quantization
+
+🔗 [GitHub](https://github.com/Mrigank005/NeoTutor) | [Hugging Face](https://huggingface.co/Mrigank005/NeoTutor) | [Google Colab](https://colab.research.google.com/drive/1X4QwSB48fddXATlJBYtab16l7TM72KZk?usp=sharing)
+</details>
+
+<details>
+<summary><b>📋 Rubric Generator</b></summary>
+
+Built a machine learning model to automatically generate detailed grading rubrics from given questions and sample answers. Fine-tuned on custom question-answer-rubric datasets for precise educational evaluation guidance.
+
+**Technologies:** Python • Jupyter Notebook • Transformers • Fine-tuning
+
+🔗 [GitHub](https://github.com/Mrigank005/Rubric_Generator) | [Hugging Face](https://huggingface.co/Mrigank005/Rubric_Generator)
+</details>
+
+### 🔍 AI-Powered Applications & RAG Systems
+
+<details>
+<summary><b>⚖️ LexiBot - AI-Powered Legal Assistant</b></summary>
+
+Built an AI-driven legal assistant specializing in Indian consumer law, traffic violations, and harassment cases. Implemented a multi-agent RAG system with query classification, intelligent semantic chunking, vector search (Qdrant), achieving 85%+ accuracy on legal queries.
+
+**Technologies:** LangChain • Google Gemini API • Qdrant • Python • Docker • Telegram Bot API
+
+**Features:** Real-time responses (<3s) • Privacy-focused • Session management • Production-ready deployment
+
+🔗 [Live Bot](https://t.me/IND_lexibot) | [Website](https://lexibot-website.vercel.app/)
+</details>
+
+<details>
+<summary><b>🔎 Qdrant RAG Pipeline</b></summary>
+
+Developed a Retrieval-Augmented Generation pipeline with Qdrant vector database for semantic search across multiple document formats (PDF, DOCX, CSV, JSON). Implemented hybrid search combining semantic embeddings and keyword matching.
+
+**Technologies:** Python • Qdrant • Sentence Transformers • RAG Architecture
+
+🔗 [GitHub](https://github.com/Mrigank005/Qdrant)
+</details>
+
+<details>
+<summary><b>🕸️ Text-to-Neo4j Knowledge Graph Builder</b></summary>
+
+Developed a pipeline to convert unstructured text into queryable Neo4j knowledge graphs, supporting multiple .txt files with intelligent chunking and type/relationship normalization.
+
+**Technologies:** Python • Neo4j • Ollama LLM • LangChain • spaCy
+
+🔗 [GitHub](https://github.com/Mrigank005/Text-to-Neo4j-Knowledge-Graph-Builder)
+</details>
+
+<details>
+<summary><b>📄 JobFit: AI Resume Analyzer</b></summary>
+
+Developed a secure AI-driven resume-job matching platform with multi-stage analysis using Gemini 2.5 and LangGraph workflows. Implemented AWS S3 presigned URLs for secure uploads with automatic 5-minute expiry.
+
+**Technologies:** Next.js • FastAPI • LangGraph • Gemini 2.5 • AWS S3
+
+🔗 [Website](https://jobfit-analysis-ai.vercel.app)
+</details>
+
+### 💻 Web Applications
+
+<details>
+<summary><b>💼 Portfolio Website</b></summary>
+
+My personal portfolio website showcasing projects, skills, experience, and achievements as a developer and creative technologist.
+
+**Technologies:** React • Tailwind CSS • ShadCN • TypeScript • Vite • Vercel
+
+🔗 [GitHub](https://github.com/Mrigank005/Portfolio) | [Live Website](https://mrigank-portfolio-website.vercel.app)
+</details>
+
+<details>
+<summary><b>🏥 GraceCare India</b></summary>
+
+**Freelance Project**: Built a professional website for GraceCare India, a leading provider of comprehensive geriatric care solutions.
+
+**Technologies:** Web Development • Healthcare Domain • Client Project
+
+🔗 [Website](https://gracecare-india.vercel.app/)
+</details>
+
+### 🏆 Hackathon Projects
+
+<details>
+<summary><b>⛓️ BharatChain</b></summary>
+
+**WCHL Hackathon (Regional Round Qualifier, Asia)**
+
+Developed AI-powered service for India's blockchain-based digital governance platform, enabling document analysis & verification with OCR and text extraction, and grievance processing with sentiment analysis.
+
+**Technologies:** Python • Flask • Blockchain • Ethereum • React • Smart Contracts
+
+**Achievement:** Regional Round Qualification in Asia
+
+🔗 [GitHub](https://github.com/Mrigank005/WHCL-Hackathon)
+</details>
+
+<details>
+<summary><b>🆘 Disaster Response Training Tool</b></summary>
+
+**First Hackathon Project**: Developed an interactive web-based platform to train users in disaster preparedness and emergency response with AI chatbot powered by Gemini API.
+
+**Technologies:** HTML • CSS • JavaScript • Gemini API • Vercel
+
+🔗 [GitHub](https://github.com/Mrigank005/Disaster_Response_Traning_Tool) | [Website](https://disaster-response-traning-tool.vercel.app/)
+</details>
+
+<details>
+<summary><b>🫧 Bubble Labyrinth</b></summary>
+
+**Global Game Jam 2025**: Developed a first-person 3D puzzle-platformer during the 48-hour Global Game Jam 2025, showcasing rapid prototyping and game development skills.
+
+**Technologies:** Unity • C# • Blender • Game Development
+
+**Team:** Devaansh Kushwaha, Hardik Bindal, Bhuvendra Singh
+
+🔗 [Play Game](https://globalgamejam.org/games/2025/bubble-labyrinth-9)
+</details>
+
+### 🔧 Automation & Utility Tools
+
+<details>
+<summary><b>🖼️ OCR Text Extractor</b></summary>
+
+Developed a Python automation tool to extract text from images using Tesseract OCR, supporting batch processing with multi-language support (English & Hindi).
+
+**Technologies:** Python • Tesseract OCR • Pillow • Automation
+
+🔗 [GitHub](https://github.com/Mrigank005/OCR)
+</details>
+
+<details>
+<summary><b>📊 Data Visualization & EDA</b></summary>
+
+Conducted comprehensive Exploratory Data Analysis on popular datasets (Ames Housing, Iris Flower) covering data cleaning, feature analysis, and statistical visualization.
+
+**Technologies:** Python • Pandas • NumPy • Matplotlib • Seaborn • Statistical Analysis
+
+🔗 [GitHub](https://github.com/Mrigank005/Data-Analysis-and-Visualization)
+</details>
 
 ---
 
