@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="https://drive.google.com/file/d/1HrV9PI5mA8kXHC-U5_4hdS7J71Cy7Q7j/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1BqGXb3t2oey9-E9TVckg2023wP6bxkAB/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/%20Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Mrigank005&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" align="right"/>
