@@ -176,7 +176,13 @@
 
 Built an AI-driven eDNA analysis pipeline for deep-sea biodiversity assessment, achieving 100× faster processing compared to traditional BLAST/DADA2 methods. Delivered a full-stack web application with real-time analysis dashboard, taxonomic classification trees, and biodiversity metrics visualization.
 
-**Technologies:** FastAPI • PyTorch • React • PostgreSQL • AI/ML Pipeline
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI/ML_Pipeline-FF6B6B?style=for-the-badge"/>
+</p>
 
 **Team:** Binary Beasts (Smart India Hackathon 2025)
 
@@ -188,7 +194,13 @@ Built an AI-driven eDNA analysis pipeline for deep-sea biodiversity assessment, 
 
 Built an anomaly detection system for Food & Beverage batch production, analyzing 1500+ batches across 11 parameters. Implemented four specialized models with consensus voting, reducing false positives by 6-15% vs. single models.
 
-**Technologies:** Python • Scikit-learn • TensorFlow • SHAP • Plotly • Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
 **Key Achievements:** F1-score of 0.87 with 92% model agreement
 
@@ -200,7 +212,13 @@ Built an anomaly detection system for Food & Beverage batch production, analyzin
 
 Developed an adaptive, feedback-based AI tutor system using Meta's LLaMA-3.2-3B-Instruct with LangGraph multi-agent workflow for intelligent question generation, answer evaluation, and adaptive difficulty progression.
 
-**Technologies:** Meta LLaMA 3.2 • LangGraph • PyTorch • Transformers • 4-bit Quantization
+<p>
+  <img src="https://img.shields.io/badge/Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-6f42c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/4--bit_Quantization-009688?style=for-the-badge"/>
+</p>
 
 🔗 [GitHub](https://github.com/Mrigank005/NeoTutor) | [Hugging Face](https://huggingface.co/Mrigank005/NeoTutor) | [Google Colab](https://colab.research.google.com/drive/1X4QwSB48fddXATlJBYtab16l7TM72KZk?usp=sharing)
 </details>
@@ -210,7 +228,12 @@ Developed an adaptive, feedback-based AI tutor system using Meta's LLaMA-3.2-3B-
 
 Built a machine learning model to automatically generate detailed grading rubrics from given questions and sample answers. Fine-tuned on custom question-answer-rubric datasets for precise educational evaluation guidance.
 
-**Technologies:** Python • Jupyter Notebook • Transformers • Fine-tuning
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Fine--tuning-EE4C2C?style=for-the-badge"/>
+</p>
 
 🔗 [GitHub](https://github.com/Mrigank005/Rubric_Generator) | [Hugging Face](https://huggingface.co/Mrigank005/Rubric_Generator)
 </details>
@@ -222,7 +245,14 @@ Built a machine learning model to automatically generate detailed grading rubric
 
 Built an AI-driven legal assistant specializing in Indian consumer law, traffic violations, and harassment cases. Implemented a multi-agent RAG system with query classification, intelligent semantic chunking, vector search (Qdrant), achieving 85%+ accuracy on legal queries.
 
-**Technologies:** LangChain • Google Gemini API • Qdrant • Python • Docker • Telegram Bot API
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4F60?style=for-the-badge&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
 
 **Features:** Real-time responses (<3s) • Privacy-focused • Session management • Production-ready deployment
 
@@ -234,7 +264,12 @@ Built an AI-driven legal assistant specializing in Indian consumer law, traffic 
 
 Developed a Retrieval-Augmented Generation pipeline with Qdrant vector database for semantic search across multiple document formats (PDF, DOCX, CSV, JSON). Implemented hybrid search combining semantic embeddings and keyword matching.
 
-**Technologies:** Python • Qdrant • Sentence Transformers • RAG Architecture
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4F60?style=for-the-badge&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Architecture-6f42c1?style=for-the-badge"/>
+</p>
 
 🔗 [GitHub](https://github.com/Mrigank005/Qdrant)
 </details>
@@ -244,7 +279,13 @@ Developed a Retrieval-Augmented Generation pipeline with Qdrant vector database 
 
 Developed a pipeline to convert unstructured text into queryable Neo4j knowledge graphs, supporting multiple .txt files with intelligent chunking and type/relationship normalization.
 
-**Technologies:** Python • Neo4j • Ollama LLM • LangChain • spaCy
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+</p>
 
 🔗 [GitHub](https://github.com/Mrigank005/Text-to-Neo4j-Knowledge-Graph-Builder)
 </details>
@@ -254,31 +295,15 @@ Developed a pipeline to convert unstructured text into queryable Neo4j knowledge
 
 Developed a secure AI-driven resume-job matching platform with multi-stage analysis using Gemini 2.5 and LangGraph workflows. Implemented AWS S3 presigned URLs for secure uploads with automatic 5-minute expiry.
 
-**Technologies:** Next.js • FastAPI • LangGraph • Gemini 2.5 • AWS S3
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-6f42c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini_2.5-3E75C3?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
 🔗 [Website](https://jobfit-analysis-ai.vercel.app)
-</details>
-
-### 💻 Web Applications
-
-<details>
-<summary><b>💼 Portfolio Website</b></summary>
-
-My personal portfolio website showcasing projects, skills, experience, and achievements as a developer and creative technologist.
-
-**Technologies:** React • Tailwind CSS • ShadCN • TypeScript • Vite • Vercel
-
-🔗 [GitHub](https://github.com/Mrigank005/Portfolio) | [Live Website](https://mrigank-portfolio-website.vercel.app)
-</details>
-
-<details>
-<summary><b>🏥 GraceCare India</b></summary>
-
-**Freelance Project**: Built a professional website for GraceCare India, a leading provider of comprehensive geriatric care solutions.
-
-**Technologies:** Web Development • Healthcare Domain • Client Project
-
-🔗 [Website](https://gracecare-india.vercel.app/)
 </details>
 
 ### 🏆 Hackathon Projects
@@ -290,7 +315,14 @@ My personal portfolio website showcasing projects, skills, experience, and achie
 
 Developed AI-powered service for India's blockchain-based digital governance platform, enabling document analysis & verification with OCR and text extraction, and grievance processing with sentiment analysis.
 
-**Technologies:** Python • Flask • Blockchain • Ethereum • React • Smart Contracts
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Smart_Contracts-FF6B6B?style=for-the-badge"/>
+</p>
 
 **Achievement:** Regional Round Qualification in Asia
 
@@ -302,7 +334,13 @@ Developed AI-powered service for India's blockchain-based digital governance pla
 
 **First Hackathon Project**: Developed an interactive web-based platform to train users in disaster preparedness and emergency response with AI chatbot powered by Gemini API.
 
-**Technologies:** HTML • CSS • JavaScript • Gemini API • Vercel
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gemini_API-3E75C3?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 🔗 [GitHub](https://github.com/Mrigank005/Disaster_Response_Traning_Tool) | [Website](https://disaster-response-traning-tool.vercel.app/)
 </details>
@@ -312,7 +350,12 @@ Developed AI-powered service for India's blockchain-based digital governance pla
 
 **Global Game Jam 2025**: Developed a first-person 3D puzzle-platformer during the 48-hour Global Game Jam 2025, showcasing rapid prototyping and game development skills.
 
-**Technologies:** Unity • C# • Blender • Game Development
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game_Development-FF6B6B?style=for-the-badge"/>
+</p>
 
 **Team:** Devaansh Kushwaha, Hardik Bindal, Bhuvendra Singh
 
@@ -326,7 +369,12 @@ Developed AI-powered service for India's blockchain-based digital governance pla
 
 Developed a Python automation tool to extract text from images using Tesseract OCR, supporting batch processing with multi-language support (English & Hindi).
 
-**Technologies:** Python • Tesseract OCR • Pillow • Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-5A5A5A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pillow-6E4C13?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-FF6B6B?style=for-the-badge"/>
+</p>
 
 🔗 [GitHub](https://github.com/Mrigank005/OCR)
 </details>
@@ -336,7 +384,14 @@ Developed a Python automation tool to extract text from images using Tesseract O
 
 Conducted comprehensive Exploratory Data Analysis on popular datasets (Ames Housing, Iris Flower) covering data cleaning, feature analysis, and statistical visualization.
 
-**Technologies:** Python • Pandas • NumPy • Matplotlib • Seaborn • Statistical Analysis
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-009688?style=for-the-badge"/>
+</p>
 
 🔗 [GitHub](https://github.com/Mrigank005/Data-Analysis-and-Visualization)
 </details>
