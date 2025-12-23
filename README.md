@@ -44,7 +44,7 @@
 ---
 
 ## 🎯 Current Goals
-- 🚀 Build production-ready AI applications with RAG systems
+- 🚀 Build production-ready AI applications and RAG systems
 - 🔥 Master Advanced System Design patterns 
 - 🏆 Solve 500+ LeetCode problems
 - 📚 Contribute to open-source AI/ML projects
