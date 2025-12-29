@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="hero.mp4" width="100%" height="500px">
+  <img src="https://i.pinimg.com/originals/57/0c/a0/570ca09aa7450b886da8551039a0a91f.gif" width="100%" height="500px">
 </p>
 
 <!-- Divider -->
