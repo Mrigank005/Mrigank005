@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="banner.gif" width="100%" height="500px">
+  <img src="hero.mp4" width="100%" height="500px">
 </p>
 
 <!-- Divider -->
