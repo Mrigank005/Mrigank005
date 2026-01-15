@@ -179,13 +179,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrigank005&theme=ayu-mirage&area=true&hide_border=true&radius=10&bg_color=1a1a1a&color=FFB88C&line=FF6B6B&point=FFD479"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrigank005&theme=dark_lover&margin-w=15&margin-h=15&no-bg=true&row=2&column=4" alt="GitHub Trophy"/>
-</p>
-
 <!-- Footer Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=150&section=footer&width=100%&reversal=true"style="width: 100%;" />
