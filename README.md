@@ -27,7 +27,9 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="20"/> About Me
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="25"/> About Me <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="25"/>
+</h2>
 
 <img align="right" width="200" height="215" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
 
@@ -43,7 +45,10 @@
 </ul>
 
 ---
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="20"/> Connect with Me
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="25"/> Connect with Me <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="25"/>
+</h2>
 
 <p align="center">
   <a href="mailto:mriganksingh005@gmail.com" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/></a>
@@ -58,7 +63,9 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20"/> Tech Stack
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25"/> Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25"/>
+</h2>
 
 | Category | Technologies |
 |----------|-------------|
@@ -73,7 +80,9 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="20"/> My Stats
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="25"/> My Stats <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="25"/>
+</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats-phi-opal.vercel.app?user=Mrigank005&theme=ayu-mirage&hide_border=true&background=1a1a1a&ring=FF6B6B&fire=FFD479&currStreakLabel=FFB88C"/>
