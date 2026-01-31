@@ -27,7 +27,9 @@
 
 ---
 
-## <img align="right" width="250" height="275" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" /> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="20"/> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="20"/> About Me
+
+<img align="right" width="200" height="225" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
 
 <ul>
   <li>🤖 Specializing in <strong>AI/ML</strong> while exploring <strong>FullStack Development and Cloud Engineering</strong></li>
@@ -38,17 +40,6 @@
   <li>☕ Coffee addiction level: <strong>console.log("extreme")</strong> </li>
   <li>🧠 Personal Philosophy: <strong><em>"It's not a bug – it's an undocumented feature."</em></strong></li>
   <li>🌐 Portfolio: <a href="https://mrigank.is-a.dev/">Check My Portfolio!</a></li>  
-</ul>
-
----
-
-## <img align="right" width="175" height="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdwZHN1dm05d2U5cjU2bW9zajJ5ZXc3ZmE0cnU4djYwaXlpbnJmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W5nLwmkRvl2HXWJEvq/giphy.gif" height="20"/> Current Goals 
-
-<ul>
-<li> 🚀 Build production-ready AI applications and RAG systems</li> 
-<li> 🔥 Master Advanced System Design patterns</li> 
-<li> 🏆 Solve 500+ LeetCode problems</li> 
-<li> 📚 Contribute to Open-Source Projects</li> 
 </ul>
 
 ---
