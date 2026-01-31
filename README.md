@@ -52,22 +52,19 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:mriganksingh005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/mrigank005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/>
   </a>
   <a href="https://www.instagram.com/_._mrigank/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg"/>
   </a>
   <a href="https://www.hackerrank.com/profile/mriganksingh005" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank3.svg"/>
   </a>
-  <a href="https://leetcode.com/u/Mrigank005/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/Mrigank005" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <a href="https://leetcode.com/u/MrigankSingh/" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg"/>
   </a>
 </p>
 
@@ -88,18 +85,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrigank005&show_icons=true&theme=ayu-mirage&hide_border=true&bg_color=1a1a1a"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrigank005&layout=compact&theme=ayu-mirage&hide_border=true&bg_color=1a1a1a"/>
-  <img src="https://github-readme-streak-stats-phi-opal.vercel.app?user=Mrigank005&theme=ayu-mirage&hide_border=true&background=1a1a1a&ring=FF6B6B&fire=FFD479&currStreakLabel=FFB88C"/>
+  <img width="49%" src="https://github-readme-streak-stats-phi-opal.vercel.app?user=Mrigank005&theme=ayu-mirage&hide_border=true&background=1a1a1a&ring=FF6B6B&fire=FFD479&currStreakLabel=FFB88C"/>
+  <img width="49%" src="https://leetcard.jacoblin.cool/MrigankSingh?theme=radical&font=Noto%20Sans&colors=%231a1a1a%2C%20%23FFD479%2C%20%23FF6B6B" alt="LeetCode Stats"/>
 </p>
-
----
-
-## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrigank005&theme=ayu-mirage&area=true&hide_border=true&radius=10&bg_color=1a1a1a&color=FFB88C&line=FF6B6B&point=FFD479"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrigank005&theme=ayu-mirage&area=true&hide_border=true&radius=10&bg_color=1a1a1a&color=FFB88C&line=FF6B6B&point=FFD479"/>
 </p>
 
 <!-- Footer Divider -->
