@@ -28,6 +28,10 @@
 ---
 
 ## 👨‍💻 About Me
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&redirect=true">
+  <img align="right" width="200" height="225" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
+</a>
+
 <ul>
   <li>🤖 Specializing in <strong>AI/ML</strong> while exploring <strong>FullStack Development and Cloud Engineering</strong></li>
   <li>💡 Ask me about <strong>DSA</strong>, <strong>Python</strong>, <strong>AI/ML</strong>, or <strong>Full Stack Development</strong></li>
