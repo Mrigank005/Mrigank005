@@ -28,9 +28,7 @@
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="20"/> About Me
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&redirect=true">
-  <img align="right" width="200" height="225" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
-</a>
+<img align="right" width="200" height="225" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
 
 <ul>
   <li>🤖 Specializing in <strong>AI/ML</strong> while exploring <strong>FullStack Development and Cloud Engineering</strong></li>
