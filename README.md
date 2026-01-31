@@ -40,6 +40,7 @@
   <li>🧠 Personal Philosophy: <strong><em>"It's not a bug – it's an undocumented feature."</em></strong></li>
   <li>🌐 Portfolio: <a href="https://mrigank.is-a.dev/">Check My Portfolio!</a></li>  
 </ul>
+</br>
 
 ---
 
