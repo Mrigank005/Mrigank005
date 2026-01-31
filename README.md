@@ -27,7 +27,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="20"/> About Me
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&redirect=true">
   <img align="right" width="200" height="225" src="https://spotify-github-profile.kittinanx.com/api/view?uid=8q2sy8odwjh8quyyztpzge70c&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
 </a>
@@ -40,41 +40,37 @@
   <li>🌙 <strong>Night owl</strong> - my best code happens after <strong>10 PM</strong> </li>
   <li>☕ Coffee addiction level: <strong>console.log("extreme")</strong> </li>
   <li>🧠 Personal Philosophy: <strong><em>"It's not a bug – it's an undocumented feature."</em></strong></li>
-  <li>🌐 Portfolio: <a href="https://mrigank-portfolio-website.vercel.app/">Check My Portfolio!</a></li>  
+  <li>🌐 Portfolio: <a href="https://mrigank.is-a.dev/">Check My Portfolio!</a></li>  
 </ul>
 
 ---
 
-## 🎯 Current Goals
-- 🚀 Build production-ready AI applications and RAG systems
-- 🔥 Master Advanced System Design patterns 
-- 🏆 Solve 500+ LeetCode problems
-- 📚 Contribute to Open-Source Projects
+## <img align="right" width="175" height="200" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdwZHN1dm05d2U5cjU2bW9zajJ5ZXc3ZmE0cnU4djYwaXlpbnJmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W5nLwmkRvl2HXWJEvq/giphy.gif" height="20"/> Current Goals 
+
+<ul>
+<li> 🚀 Build production-ready AI applications and RAG systems</li> 
+<li> 🔥 Master Advanced System Design patterns</li> 
+<li> 🏆 Solve 500+ LeetCode problems</li> 
+<li> 📚 Contribute to Open-Source Projects</li> 
+</ul>
 
 ---
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="20"/> Connect with Me
 
-## 🔗 Connect with Me
 <p align="center">
-  <a href="mailto:mriganksingh005@gmail.com" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mrigank005/" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/>
-  </a>
-  <a href="https://www.instagram.com/_._mrigank/" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/mriganksingh005" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank3.svg"/>
-  </a>
-  <a href="https://leetcode.com/u/MrigankSingh/" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg"/>
-  </a>
+  <a href="mailto:mriganksingh005@gmail.com" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg"/></a>
+  <a href="https://www.linkedin.com/in/mrigank005/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/></a>
+  <a href="https://www.instagram.com/_._mrigank/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg"/></a>
+  <br />
+  <a href="https://www.hackerrank.com/profile/mriganksingh005" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HackerRank/hackerrank3.svg"/></a>
+  <a href="https://leetcode.com/u/MrigankSingh/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg"/></a>
+  <br />
+  <a href="https://mrigank.is-a.dev/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg"/></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20"/> Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -89,7 +85,7 @@
 
 ---
 
-## 📊 My Stats
+## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="20"/> My Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats-phi-opal.vercel.app?user=Mrigank005&theme=ayu-mirage&hide_border=true&background=1a1a1a&ring=FF6B6B&fire=FFD479&currStreakLabel=FFB88C"/>
